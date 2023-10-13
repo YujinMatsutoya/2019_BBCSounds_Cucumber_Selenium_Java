@@ -1,5 +1,6 @@
-## Yujin Matsutoya: BBC Sounds Candidate Test
+## Yujin Matsutoya: BBC Sounds Candidate Test 2019
 
+A demonstration of automating the BBC Sounds website using Cucumber and Selenium in Java.  
 
 ## Prerequisites
 *IntelliJ IDE
